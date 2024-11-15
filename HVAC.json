@@ -20,7 +20,7 @@
                 "device_id": {
                     "type": "string"
                 },
-                "temperature_celcius": {
+                "temperature_celsius": {
                     "type": "number"
                 },
                 "humidity_percent": {
@@ -36,7 +36,7 @@
             "required": [
                 "id",
                 "device_id",
-                "temperature_celcius",
+                "temperature_celsius",
                 "humidity_percent",
                 "power_usage_kwh",
                 "operting_mode"
